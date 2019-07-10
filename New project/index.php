@@ -1,5 +1,3 @@
 <?php
-echo "working";
-echo "changes";
-
+echo 'new updated code';
 ?>
